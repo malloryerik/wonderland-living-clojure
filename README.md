@@ -1,10 +1,10 @@
 # wonderland
 
-A Clojure library designed to ... well, that part is up to you.
+Just notes and scribbles while reading "Living Clojure" by Carin Meier. 
 
 ## Usage
 
-FIXME
+
 
 ## License
 
