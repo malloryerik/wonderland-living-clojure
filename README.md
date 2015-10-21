@@ -2,9 +2,6 @@
 
 Just notes and scribbles while reading "Living Clojure" by Carin Meier. 
 
-## Usage
-
-
 
 ## License
 
